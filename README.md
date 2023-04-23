@@ -14,7 +14,7 @@
 <li><a href="https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485">The Design</a>
 </li>
 
-<li>Let's Go visit <a href="https://eslamashhraf.github.io/HooBank/">HooBank</a>
+<li>Let's Go visit <a href="https://levkotkach.github.io/Bank/">HooBank</a>
 </li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
@@ -47,6 +47,3 @@ npm run dev
 
 </li>
 </ol>
-
-
-
