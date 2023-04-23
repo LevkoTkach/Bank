@@ -1,6 +1,4 @@
-# <img  align="center" width= 70px  src="https://media3.giphy.com/media/1UzcJDVic39APt22bK/giphy.gif?cid=ecf05e47oej9fhztal5suam3c3pysrzg5r6xbcpoku79ytmg&rid=giphy.gif&ct=s"> HooBank
-
-<div align="center">
+#  HooBank
 
 <ul>
 
